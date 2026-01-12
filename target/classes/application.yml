@@ -1,0 +1,44 @@
+server:
+  port: 9096            # 服务端口，设置为 9096 防止与前端默认端口冲突
+  servlet:
+    context-path: /      # 项目根路径
+
+spring:
+  application:
+    name: sams-backend   # 应用名称
+
+  # 数据库配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 注意：sams_db 是数据库名，Asia/Shanghai 是时区
+    url: jdbc:mysql://localhost:3306/sams_db?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&useSSL=false
+    username: root       # 数据库账号
+    password: 123456     # <--- ★请修改为你自己的数据库密码★
+
+  # JSON 处理配置 (让后端返回的时间格式好看一点)
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+# MyBatis Plus 配置 (关键)
+mybatis-plus:
+  # 扫描实体类包，这样 Mapper.xml 里就可以直接写类名，不用写全限定名 (可选)
+  type-aliases-package: com.example.sams.entity
+  configuration:
+    # ★开启 SQL 日志打印★ (开发阶段非常重要，能在控制台看到 SQL 语句)
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    # 开启驼峰命名转换 (数据库 user_name -> Java userName)
+    map-underscore-to-camel-case: true
+  global-config:
+    db-config:
+      # 如果你以后想做逻辑删除，配置这个字段
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+
+# 自定义配置 (配合之前的 JwtUtils)
+# 虽然之前的代码硬编码了密钥，但规范的做法是写在这里
+sams:
+  jwt:
+    secret: sams-super-secret-key-2025
+    expire: 86400000 # 24小时

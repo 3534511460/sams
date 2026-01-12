@@ -1,0 +1,5 @@
+com\example\sams\entity\Department.class
+com\example\sams\service\IDepartmentService.class
+com\example\sams\service\impl\DepartmentServiceImpl.class
+com\example\sams\mapper\DepartmentMapper.class
+com\example\sams\controller\DepartmentController.class

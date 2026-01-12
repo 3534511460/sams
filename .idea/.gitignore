@@ -1,0 +1,29 @@
+# ===================== 前端Vue 忽略规则 =====================
+node_modules/
+dist/
+.env
+.env.local
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===================== 后端SpringBoot 忽略规则 =====================
+# 后端编译产物【必忽略，核心】
+target/
+# maven打包脚本，本地用即可
+mvnw
+mvnw.cmd
+# IDEA的配置文件
+.idea/
+*.iml
+# 日志文件
+logs/
+*.log
+# 本地环境配置文件（不要提交自己的数据库账号密码）
+src/main/resources/application-dev.yml
+src/main/resources/application-local.yml
+# 后端忽略规则
+target/
+.idea/
+untitled.iml
+node_modules/

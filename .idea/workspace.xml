@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a179bdc-5c28-469f-88c6-e35a55594ba8" name="更改" comment="第二次">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/attendance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/department.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/leave.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AiAssistant.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Charts/AttendanceTrend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Charts/LeavePie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/QrCodeModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TimeTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/admin/ClassManage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/admin/LogManage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/admin/ScheduleManage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/attendance/RecordList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/attendance/StudentCheckIn.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/attendance/TeacherPublish.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/leave/AuditLeave.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/leave/MyLeave.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/schedule/MySchedule.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/user/Profile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/user/UserManage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="Class" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven8.3.1\local" />
+        <option name="userSettingsFile" value="D:\Maven\maven-3.8.6\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37YtIDFQe8hXzXSefuZz3Qm2vnK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-JavaScript: Code Vision Performance&quot;: &quot;JavaScript: Code Vision 性能观察程序&quot;,
+    &quot;Notification.DoNotAsk-JavaScript: Code Vision Performance&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SamsApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SamsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a1663/Desktop/untitled31&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.serve.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;cbc06a7dcc517efc022cebd866a4b2c7&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IntelliJ IDEA 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a1663\Desktop\untitled31\untitled\src\views\admin" />
+      <recent name="C:\Users\a1663\Desktop\untitled31\src\main\java\com\example\sams\controller" />
+      <recent name="C:\Users\a1663\Desktop\untitled31\src\main\java\com\example\sams\entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\untitled30\untitled\src\views\admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="SamsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sams-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sams.SamsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SamsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sams-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sams.SamsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/untitled/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="Spring Boot.SamsApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6a179bdc-5c28-469f-88c6-e35a55594ba8" name="更改" comment="" />
+      <created>1767091752526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767091752526</updated>
+      <workItem from="1767091754519" duration="744000" />
+      <workItem from="1767092545002" duration="3652000" />
+      <workItem from="1767096243496" duration="5037000" />
+      <workItem from="1767139669001" duration="8435000" />
+      <workItem from="1767149405388" duration="2496000" />
+      <workItem from="1767265750382" duration="2177000" />
+      <workItem from="1767273831136" duration="5935000" />
+      <workItem from="1767279917409" duration="7000" />
+      <workItem from="1767340402644" duration="4886000" />
+      <workItem from="1767350477268" duration="601000" />
+      <workItem from="1767352485528" duration="1890000" />
+      <workItem from="1767430229293" duration="810000" />
+      <workItem from="1767431049460" duration="655000" />
+      <workItem from="1767432937302" duration="73000" />
+      <workItem from="1767438458783" duration="6959000" />
+      <workItem from="1767485001983" duration="2479000" />
+      <workItem from="1767487707227" duration="17000" />
+      <workItem from="1767491479668" duration="171000" />
+      <workItem from="1767492285524" duration="4754000" />
+      <workItem from="1767527388338" duration="6798000" />
+      <workItem from="1767658548879" duration="5000" />
+      <workItem from="1767658810223" duration="26000" />
+      <workItem from="1767658877353" duration="1445000" />
+      <workItem from="1767660789689" duration="190000" />
+      <workItem from="1767664290223" duration="88000" />
+      <workItem from="1767664393925" duration="6159000" />
+      <workItem from="1767672777652" duration="3000" />
+      <workItem from="1767685152987" duration="1557000" />
+      <workItem from="1767688086110" duration="2027000" />
+      <workItem from="1767703158241" duration="2949000" />
+      <workItem from="1767748618742" duration="5524000" />
+      <workItem from="1767755327660" duration="1328000" />
+      <workItem from="1767758521138" duration="209000" />
+      <workItem from="1767917032445" duration="2844000" />
+      <workItem from="1767920120467" duration="57000" />
+      <workItem from="1767920278552" duration="15000" />
+      <workItem from="1767920569154" duration="119000" />
+      <workItem from="1767924206516" duration="108000" />
+      <workItem from="1767926176381" duration="12000" />
+      <workItem from="1767928982795" duration="426000" />
+      <workItem from="1768182241539" duration="174000" />
+      <workItem from="1768182427916" duration="5458000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <option name="closed" value="true" />
+      <created>1768184621452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768184621452</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次">
+      <option name="closed" value="true" />
+      <created>1768187763807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768187763807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次" />
+    <MESSAGE value="第二次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
